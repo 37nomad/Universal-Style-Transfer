@@ -14,9 +14,9 @@
 ## Generated images 
 - Example 1
 <p align="center">
-  <img src="https://github.com/37nomad/Universal-Style-Transfer/blob/main/Content%20Images/006.jpg?raw=true" alt="Content Image 1" width="300" />
-  <img src="https://github.com/37nomad/Universal-Style-Transfer/blob/main/Style%20Images/sham-jallaludin-IPasTalwA4o-unsplash.jpg?raw=true" alt="Style Image 1" width="300" />
-  <img src="https://github.com/37nomad/Universal-Style-Transfer/blob/main/Output%20Images/flower-3-AdaIn.png?raw=true" alt="Generated Image 1" width="300" />
+  <img src="https://github.com/37nomad/Universal-Style-Transfer/blob/main/Content%20Images/006.jpg?raw=true" alt="Content Image 1" width="200" />
+  <img src="https://github.com/37nomad/Universal-Style-Transfer/blob/main/Style%20Images/sham-jallaludin-IPasTalwA4o-unsplash.jpg?raw=true" alt="Style Image 1" width="200" />
+  <img src="https://github.com/37nomad/Universal-Style-Transfer/blob/main/Output%20Images/flower-3-AdaIn.png?raw=true" alt="Generated Image 1" width="200" />
 </p>     
 
 - Example 2
