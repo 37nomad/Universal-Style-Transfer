@@ -14,23 +14,23 @@
 ## Generated images 
 - Example 1
 <p align="center">
-  <img src="https://github.com/37nomad/Universal-Style-Transfer/blob/main/Content%20Images/006.jpg?raw=true" alt="Content Image 1" width="200" />
-  <img src="https://github.com/37nomad/Universal-Style-Transfer/blob/main/Style%20Images/sham-jallaludin-IPasTalwA4o-unsplash.jpg?raw=true" alt="Style Image 1" width="200" />
-  <img src="https://github.com/37nomad/Universal-Style-Transfer/blob/main/Output%20Images/flower-3-AdaIn.png?raw=true" alt="Generated Image 1" width="200" />
+  <img src="https://github.com/37nomad/Universal-Style-Transfer/blob/main/Content%20Images/006.jpg?raw=true" alt="Content Image 1" width="300" />
+  <img src="https://github.com/37nomad/Universal-Style-Transfer/blob/main/Style%20Images/sham-jallaludin-IPasTalwA4o-unsplash.jpg?raw=true" alt="Style Image 1" width="300" />
+  <img src="https://github.com/37nomad/Universal-Style-Transfer/blob/main/Output%20Images/flower-3-AdaIn.png?raw=true" alt="Generated Image 1" width="300" />
 </p>     
 
 - Example 2
 <p align="center">
-  <img src="https://github.com/37nomad/Universal-Style-Transfer/blob/main/Content%20Images/05.jpg?raw=true" alt="Content Image 2" width="200" />
-  <img src="https://github.com/37nomad/Universal-Style-Transfer/blob/main/Style%20Images/style_7.png?raw=true" alt="Style Image 2" width="200" />
-  <img src="https://github.com/37nomad/Universal-Style-Transfer/blob/main/Output%20Images/bridge-3-AdaIn.png?raw=true" alt="Generated Image 2" width="200" />
+  <img src="https://github.com/37nomad/Universal-Style-Transfer/blob/main/Content%20Images/05.jpg?raw=true" alt="Content Image 2" width="300" />
+  <img src="https://github.com/37nomad/Universal-Style-Transfer/blob/main/Style%20Images/style_7.png?raw=true" alt="Style Image 2" width="300" />
+  <img src="https://github.com/37nomad/Universal-Style-Transfer/blob/main/Output%20Images/bridge-3-AdaIn.png?raw=true" alt="Generated Image 2" width="300" />
 </p>  
   
 - Example 3  
 <p align="center">
-  <img src="https://github.com/37nomad/Universal-Style-Transfer/blob/main/Content%20Images/004.jpg?raw=true" alt="Content Image 3" width="200" />
-  <img src="https://github.com/37nomad/Universal-Style-Transfer/blob/main/Style%20Images/in4.jpg?raw=true" alt="Style Image 3" width="300" height="200"/>
-  <img src="https://github.com/37nomad/Universal-Style-Transfer/blob/main/Output%20Images/woman-3-AdaIn.png?raw=true" alt="Generated Image 3" width="200" />
+  <img src="https://github.com/37nomad/Universal-Style-Transfer/blob/main/Content%20Images/004.jpg?raw=true" alt="Content Image 3" width="300" />
+  <img src="https://github.com/37nomad/Universal-Style-Transfer/blob/main/Style%20Images/in4.jpg?raw=true" alt="Style Image 3" width="300" height="300"/>
+  <img src="https://github.com/37nomad/Universal-Style-Transfer/blob/main/Output%20Images/woman-3-AdaIn.png?raw=true" alt="Generated Image 3" width="300" />
 </p>    
   
 ## Acknowledgements  
